@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **my first opportunity**
 
-- 🌱 I’m currently learning **React, PHP, C#**
+- 🌱 I’m currently learning **React, PHP and C#**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/vitor-hugo-alves-9368b9249/](https://www.linkedin.com/in/vitor-hugo-alves-9368b9249/)
 
