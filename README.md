@@ -1,4 +1,3 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
 
 # Olá, eu sou Vitor Hugo!
   
