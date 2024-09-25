@@ -7,4 +7,4 @@
 
 <p>Skills: React, Javascript, Typescript, HTML, CSS, SCSS, Bootstrap, Tailwind, Node, MySQL, MongoDB, Jest, Git e Github e Azure DevOps</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhaoliveira&hide=html,blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhaoliveira&hide=html,blade,hack)](https://github.com/anuraghazra/github-readme-stats)
