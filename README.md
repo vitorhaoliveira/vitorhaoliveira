@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working with freelancers<br>I'm currently learning Next.js<br>
-
+Desenvolvedor front end | React | Next | Node
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vitorha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-hugo-alves-9368b9249/) 
